@@ -85,7 +85,7 @@ pre-commit install
 6. Commit changes, push to a branch and open a PR to **YOUR** repository main/master branch.
 If you see a warning like this -- please enable the workflows:
 ![img.png](doc/figures/workflow.png)
-...and repush your changes!
+...and repush your changes!!
 
 Once all Pull Requests checks **have passed** please merge your PR and wait until your release job finishes.
 7. Navigate to the Vertex AI Workbench menu item, find your notebook on the list, press **CONNECT** and follow
